@@ -1,0 +1,11 @@
+D:\桌面\程序\12108413\WindowsFormsAppTest\WindowsFormsAppTest\bin\BusSearch.exe.config
+D:\桌面\程序\12108413\WindowsFormsAppTest\WindowsFormsAppTest\bin\BusSearch.exe
+D:\桌面\程序\12108413\WindowsFormsAppTest\WindowsFormsAppTest\bin\BusSearch.pdb
+D:\桌面\程序\12108413\WindowsFormsAppTest\WindowsFormsAppTest\bin\MySQLDriverCS.dll
+D:\桌面\程序\12108413\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\ResolveAssemblyReference.cache
+D:\桌面\程序\12108413\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\BusSearch.Properties.Resources.resources
+D:\桌面\程序\12108413\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\GenerateResource.read.1.tlog
+D:\桌面\程序\12108413\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\GenerateResource.write.1.tlog
+D:\桌面\程序\12108413\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\BusSearch.exe
+D:\桌面\程序\12108413\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\BusSearch.pdb
+D:\桌面\程序\12108413\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\busSearch.frmTest.resources

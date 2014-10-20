@@ -1,0 +1,9 @@
+D:\桌面\程序\12108413\WindowsFormsAppTest\NewIndex\bin\Debug\NewIndex.exe
+D:\桌面\程序\12108413\WindowsFormsAppTest\NewIndex\bin\Debug\NewIndex.pdb
+D:\桌面\程序\12108413\WindowsFormsAppTest\NewIndex\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\桌面\程序\12108413\WindowsFormsAppTest\NewIndex\obj\x86\Debug\NewIndex.NewIndex.resources
+D:\桌面\程序\12108413\WindowsFormsAppTest\NewIndex\obj\x86\Debug\NewIndex.Properties.Resources.resources
+D:\桌面\程序\12108413\WindowsFormsAppTest\NewIndex\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\桌面\程序\12108413\WindowsFormsAppTest\NewIndex\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\桌面\程序\12108413\WindowsFormsAppTest\NewIndex\obj\x86\Debug\NewIndex.exe
+D:\桌面\程序\12108413\WindowsFormsAppTest\NewIndex\obj\x86\Debug\NewIndex.pdb
